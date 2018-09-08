@@ -1,0 +1,6 @@
+
+<div>
+    
+</div>
+<chat-bot></chat-bot>
+<router-outlet></router-outlet>
